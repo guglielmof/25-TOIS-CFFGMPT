@@ -42,7 +42,7 @@ on the other hand, we use slightly different policy. In fact, valid collection n
 name and the corresponding ir_datasets id and the function to read and process the queries and the qrels.
 Use the following command to compute a run:
 ```bash 
-python code/preliminary/retrieve.py -c msmarco-document/trec-dl-2019/judged --corpus_name msmarco-passage -e contriever
+python code/preliminary/retrieve.py -c trec-dl-2019 -e contriever
 ```
 
 The run will be stored in <code>data/runs</code>. Notice that, for the sake of replicability, we uploaded in this

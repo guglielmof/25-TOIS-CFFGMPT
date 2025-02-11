@@ -1,0 +1,2279 @@
+301_0;organ intern crimin activ
+301_1;intern crimin organ
+301_2;intern organ crime
+301_3;intern crime group
+301_4;intern drug trade crime group south america
+301_5;intern smuggl group
+301_6;intern crimin organ
+301_7;intern illeg drug trade organ countri
+301_8;intern terrorist group illeg activ countri
+301_9;intern organ benefit crime countri
+302_0;polio incid
+302_1;polio preval
+302_2;polio outbreak health
+302_3;recent polio outbreak
+302_4;polio outbreak
+302_5;polio treatment post polio problem
+302_6;impact poliomyel public health
+302_7;poliomyel control
+302_8;polio outbreak timelin event
+302_9;polio erad post polio problem solut
+303_0;hubbl telescop accomplish
+303_1;hubbl telescop achiev
+303_2;hubbl telescop
+303_3;hubbl telescop research studi
+303_4;hubbl telescop new find
+303_5;impact hubbl telescop space imag
+303_6;posit hubbl telescop accomplish
+303_7;hubbl telescop increas human knowledg
+303_8;hubbl telescop phenomena prove fals hypothesi
+303_9;hubbl telescop benefit repair
+304_0;endang mammal habitat threat
+304_1;endang mammal
+304_2;list endang mammal
+304_3;endang mammal habitat
+304_4;popul endang mammal
+304_5;name endang mammal
+304_6;environment chang endang mammal
+304_7;endang mammal habitat
+304_8;endang mammal threaten habitat loss deforest human activ
+304_9;endang mammal threaten climat chang global warm habitat unfit
+305_0;crashworthi vehicl
+305_1;vehicl safeti
+305_2;car fewest crash
+305_3;passeng vehicl crashworthi
+305_4;crashworthi passeng car
+305_5;least crashworthi passeng car
+305_6;crash test report passeng car vehicl
+305_7;best worst car safeti
+305_8;car make model like kill passeng
+305_9;car make model likeli fatal accid
+306_0;africa civilian death
+306_1;civilian casualti african civil war
+306_2;africa civil war civilian casualti
+306_3;civil war africa civilian casualti
+306_4;arm conflict africa civilian casualti
+306_5;civilian kill civil war africa kill count death toll
+306_6;number unarm pedestrian kill african civil war death toll
+306_7;number innoc bystand kill african civil war death toll
+306_8;count dead civilian non combat bystand african civil war death toll
+306_9;innoc bystand casualti african civil war death toll
+307_0;hydroelectr power
+307_1;hydroelectr project
+307_2;plan hydroelectr project
+307_3;propos hydroelectr project
+307_4;hydroelectr construct
+307_5;hydroelectr construct locat
+307_6;hydroelectr construct countri
+307_7;hydroelectr construct problem
+307_8;hydroelectr project construct locat natur extent purpos problem consequ
+307_9;hydroelectr project construct countri locat
+308_0;tooth implant advantag disadvantag
+308_1;tooth implant
+308_2;tooth implant advantag disadvantag
+308_3;tooth implant side effect
+308_4;pro con tooth implant
+308_5;clinic research tooth implant
+308_6;disadvantag tooth implant
+308_7;tooth implant plu minu
+308_8;tooth implant increas durabl strength
+308_9;tooth implant disadvantag cost mainten
+309_0;rap music bad
+309_1;neg effect rap music
+309_2;rap music suck
+309_3;neg effect rap music
+309_4;evid rap music consequ teenag
+309_5;relat rap music lyric suicid tendenc
+309_6;rap music neg influenc young peopl
+309_7;rap music neg effect young peopl
+309_8;rap music link increas illeg drug usag teenag studi
+309_9;rap music teenag percept women alter studi
+310_0;radio wave brain cancer
+310_1;mobil phone brain cancer
+310_2;brain cancer occurr radio wave
+310_3;radio wave brain cancer evid
+310_4;radio wave brain cancer studi
+310_5;mobil phone radio wave brain cancer
+310_6;brain cancer radio wave mobil phone
+310_7;associ brain cancer radio frequenc
+310_8;preval brain cancer studi radio tower
+310_9;brain cancer caus use mobil phone
+311_0;theft trade secret
+311_1;stolen trade secret
+311_2;trade secret theft espionag
+311_3;trade secret theft
+311_4;theft trade secret
+311_5;trade secret leak fashion industri design
+311_6;pharmaceut compani incur theft trade secret
+311_7;freedom inform act use steal trade secret
+311_8;theft trade secret silicon valley
+311_9;trade secret theft exampl
+312_0;grow plant in water
+312_1;plant growth without soil
+312_2;scienc grow plant water
+312_3;grow plant water
+312_4;scienc hydropon
+312_5;advantag hydropon instal rate plant develop
+312_6;hydropon instal cost benefit analysi
+312_7;nutrit plant instal hydropon setup
+312_8;plant growth hydropon
+312_9;hydropon nutrient plant grow artifici organ agricultur sustain
+313_0;magnet levit
+313_1;magnet levit commerci use
+313_2;commerci use magnet levit
+313_3;commerci use magnet levit
+313_4;magnet levit commerci use
+313_5;magnet levit transport train transit
+313_6;magnet levit transport train transit govern plan
+313_7;maglev flywheel applic car automobil
+313_8;maglev superconduct
+313_9;magnet levit transport train transit fastest train world
+314_0;marin veget commerci
+314_1;marin veget harvest
+314_2;alga seawe kelp food drug
+314_3;seawe alga kelp food drug
+314_4;commerci harvest marin veget
+314_5;commerci harvest marin veget
+314_6;harvest alga seawe kelp food commerci farm
+314_7;marin plant harvest commerci econom gain food
+314_8;marin plant harvest pharmaceut compani alga seawe kelp coral
+314_9;ocean plant harvest farm seawe coral kelp alga drug food
+315_0;mysteri fatal highway accid
+315_1;highway fatal unknown caus
+315_2;fatal highway accid
+315_3;unresolv fatal highway year
+315_4;fatal highway accid reason determin
+315_5;unknown caus fatal highway accid
+315_6;caus highway accid determin
+315_7;unsur driver caus highway accid
+315_8;fatal highway accid undetermin caus
+315_9;fatal highway accid unknown caus mysteri death crash
+316_0;polygami
+316_1;polygami
+316_2;world polygami
+316_3;polygami polygyni polyandri world today
+316_4;polygam relationship cultur worldwid recent year
+316_5;social attitud share multipl husband wife polygami
+316_6;custom cultur social belief polygami
+316_7;welfar polygam relationship child care hous
+316_8;love secur polygam relationship cultur normal
+316_9;polygami polyandri polygyni common polygam reason caus root origin preval
+317_0;junk fax fcc effect
+317_1;junk fax law
+317_2;effect fcc ban junk facsimil
+317_3;fcc junk fax facsimil regul pass
+317_4;fax facsimil regul ban junk pass yet fcc
+317_5;fcc regul ban junk fax facsimil pass
+317_6;fcc ban fax facsimil effect
+317_7;unsolicit junk fax facsimil invas privaci
+317_8;cost ink printer mainten junk facsimil individu busi
+317_9;fcc ban junk fax
+318_0;us retire expat
+318_1;best place retir outsid usa
+318_2;best countri retire
+318_3;best live condit qualiti life outsid america
+318_4;best place live retir outsid us unit state
+318_5;best qualiti life retir outsid us unit state
+318_6;retir europ us unit state expat
+318_7;retir africa us unit state expat
+318_8;retir asia us unit state expat
+318_9;retir oceania us unit state expat
+319_0;new fuel sourc research
+319_1;altern fuel sourc research
+319_2;altern fuel sourc research
+319_3;ongo research new fuel sourc
+319_4;studi new fuel sourc compani univers
+319_5;new develop use nuclear wast energi sourc studi compani univers
+319_6;new advanc burn coal fuel power sourc
+319_7;new materi burn fuel power sourc univers compani
+319_8;new fuel sourc research
+319_9;fuel sourc nuclear research develop invent
+320_0;fiber optic link around the globe flag project
+320_1;undersea fiber optic cabl fiber optic link around globe flag
+320_2;longest undersea fiber optic cabl
+320_3;fiber optic flag project contributor leader investor
+320_4;fiber flag optic link global worldwid undersea cabl technolog use stakehold
+320_5;fiber flag optic link global worldwid problem encount complic
+320_6;fiber flag optic link land site telecommun cabl countri link
+320_7;fiber flag optic link list countri link node
+320_8;fiber flag optic link bandwidth gigabyt per second
+320_9;fiber optic cabl undersea undersea technolog problem
+321_0;women in polit
+321_1;women represent parliament
+321_2;femal represent polit
+321_3;women represent legislatur
+321_4;gender balanc polit
+321_5;gender balanc requir polit
+321_6;proport women polit countri statist
+321_7;women polit countri statist
+321_8;women polit represent countri statist
+321_9;women represent polit
+322_0;intern art trade fraud embezzl
+322_1;intern art fraud embezzl
+322_2;intern art trade embezzl
+322_3;fraud intern art trade jewelri paint sculptur
+322_4;embezzl intern art trade jewelri paint sculptur
+322_5;theft intern art trade jewelri paint sculptur
+322_6;intern art fraud
+322_7;intern art scam fraud embezzl
+322_8;art trade fraud embezzl buy sell auction fake forgeri
+322_9;fraudul trade art work
+323_0;plagiar literatur journal
+323_1;plagiar fiction journal
+323_2;literari plagiar
+323_3;plagiar book journal
+323_4;plagiaris doctor master honour thesi
+323_5;idea stolen taken author without attribut incid literatur
+323_6;instanc media outlet stolen work without permiss attribut
+323_7;journalist plagiar exampl instanc
+323_8;plagiar literatur journal copyright theft copi uneth fraud
+323_9;literari plagiar
+324_0;argentina britain intern relat
+324_1;argentina unit kingdom falkland island
+324_2;defin intern relat argentin british
+324_3;argentina britain intern relat
+324_4;falkland island disput argentina britain relat
+324_5;argentina britain contract relat neg relationship
+324_6;argentina britain contract relat posit relationship
+324_7;argentina falkland island trade exchang
+324_8;argentina uk intern relat
+324_9;argentina britain uk unit kingdom falkland island diplomaci intern relat
+325_0;cult member lifestyl
+325_1;cult name member lifestyl
+325_2;lifestyl requir cult member
+325_3;cult member diet
+325_4;cult member cloth
+325_5;cult member goal lifestyl requir
+325_6;cult goal requir
+325_7;cult member daili life
+325_8;cult organ member lifestyl
+325_9;cult organ member eat dress habit
+326_0;ferri sink major disast
+326_1;ferri accid death
+326_2;ferri sink
+326_3;ferri sink 100 live lost death toll
+326_4;ferri sink disast fatal death toll
+326_5;ferri sink shipwreck high loss life death toll
+326_6;ferri sink mani fatal death drown death toll
+326_7;reason ferri capsiz sink mani peopl drown death toll
+326_8;ferri sink multipl live lost 100
+326_9;ferri fatal sink tragedi storm death ship
+327_0;human slaveri
+327_1;modern human slaveri
+327_2;human slaveri
+327_3;global slaveri index
+327_4;modern human slaveri hot spot
+327_5;place human slaveri current practic sweatshop hot spot
+327_6;human traffick slaveri sex industri exploit profit hot spot
+327_7;human traffick slaveri construct agricultur industri exploit profit hot spot
+327_8;human traffick involuntari servitud hot spot
+327_9;human slaveri countri 21st centuri
+328_0;papal beatif
+328_1;beatifi pope
+328_2;pope beatif
+328_3;vatican abus
+328_4;list beatifi peopl pope
+328_5;list individu bless pope
+328_6;name deed action pope recognit beatifi bless year
+328_7;name deed action pope recognit canon bless year
+328_8;list pope beatifi
+328_9;new saint pope beatif miracl
+329_0;air pollut mexico
+329_1;reduc air pollut mexico
+329_2;mexico citi air pollut reduct
+329_3;mexico citi air pollut
+329_4;mexico citi pollut
+329_5;mexico citi air pollut problem challeng solut
+329_6;mexico citi air pollut reduct car automot automobil public transport
+329_7;mexico citi air pollut reduct design studi reduc emiss
+329_8;mexico citi air pollut encourag public transport
+329_9;mexico citi pollut prevent
+330_0;iran iraq tie
+330_1;iran iraq alli
+330_2;iran iraq cooper
+330_3;iran iraq militari cooper
+330_4;iran iraq cooper border minor trade militari religi
+330_5;iran iraq cooper allianc
+330_6;socio econom tie iran iraq
+330_7;iran iraq collabor
+330_8;cooper iran iraq
+330_9;econom coalit iran iraq
+331_0;world bank critic
+331_1;world bank critic
+331_2;world bank polici critic
+331_3;critic world bank polici activ personnel
+331_4;world bank polici unrespons need countri
+331_5;world bank polici much red tape
+331_6;world bank problem issu critic
+331_7;world bank strict polici problem
+331_8;world bank critic accus polici polit personnel unhelp bureaucrat
+331_9;strict world bank polici
+332_0;incom tax evad us
+332_1;us incom tax evad investig
+332_2;incom tax evad investig north america
+332_3;evad unit state incom tax investig
+332_4;tax evas unit state expat illeg
+332_5;revenu illeg activ avoid tax
+332_6;usa unit state us incom tax evas exampl
+332_7;incom tax evas case
+332_8;incom tax fraud investig
+332_9;us unit state us incom tax evas law crimin revenu illeg justic guilti prosecut
+333_0;antibiot resist
+333_1;antibiot resist bacteria
+333_2;antibiot resist bacteria
+333_3;bacteria antibiot resist
+333_4;antibiot usag agricultur contribut resist
+333_5;bacteria win antibiot
+333_6;bacteria antibiot reduc effect
+333_7;bacteria antibiot effect
+333_8;drug resist bacteria antibiot golden staph
+333_9;mutant bacteria antibiot
+334_0;export control encrypt softwar effect
+334_1;encrypt softwar export control pro con
+334_2;encrypt softwar export control argument
+334_3;export control encrypt softwar
+334_4;encrypt backdoor us govern export control
+334_5;use export control encrypt unit state us us
+334_6;encrypt softwar export control
+334_7;export control encrypt softwar public key
+334_8;de nsa export control
+334_9;crypto war 90
+335_0;biolog adopt parent children problem
+335_1;biolog parent adopt relationship
+335_2;guardianship  litig case studi
+335_3;problem solut biolog parent adopt parent
+335_4;adopt children tri contact parent rule court
+335_5;biolog adopt parent issu
+335_6;biolog adopt parent court battl
+335_7;adopt biolog parent problem issu tension famili blend natur
+335_8;biolog adopt parent relationship
+336_0;black bear attack
+336_1;black bear attack caus
+336_2;calm savag black bear
+336_3;hungri black bear
+336_4;black bear attack frequenc
+336_5;black bear attack caus
+336_6;black bear attack
+336_7;caus black bear human attack
+336_8;black bear attack
+336_9;possibl caus black bear attack
+337_0;hepat treatment
+337_1;viral hepat treatment
+337_2;viral hepat research progress
+337_3;viral hepat research
+337_4;medic procedur treat viral hepat new research studi
+337_5;viral hepat progress treatment
+337_6;viral hepat research progress treatment
+337_7;viral hepat treatment vaccin immun third world countri
+337_8;viral hepat research
+337_9;hepat treatment research
+338_0;aspirin risk
+338_1;aspirin side effect
+338_2;advers effect repeatedli take aspirin
+338_3;aspirin advers effect repeat use stori
+338_4;repeat use aspirin intestin bleed inflamm ulcer stori
+338_5;repeat use aspirin harm stori
+338_6;aspirin repeat reaction
+338_7;aspirin problem daili frequent overus bleed inflamm ulcer advers effect
+338_8;repeat use aspirin effect
+338_9;frequent consumpt aspirin
+339_0;alzheim diseas treatment
+339_1;alzheim diseas medicin
+339_2;alzheim diseas drug treatment
+339_3;alzheim treatment success stori
+339_4;drug alzheim diseas success rate
+339_5;pharmaceut compani treat alzheim diseas success
+339_6;medicin alzheim diseas drug improv success
+339_7;alzheim diseas drug success treatment
+339_8;alzheim diseas dementia drug treatment success rate prognosi delay onset sever
+340_0;land mine elimin problem
+340_1;land mine remov icbl treati
+340_2;problem elimin land mine use
+340_3;elimin use landmin problem
+340_4;icbl intern campaign ban landmin treati elimin product transfer use land mine
+340_5;prevent landmin icbl treati
+340_6;land mine landmin reduct ban
+340_7;landmin ban icbl kill maim land mine clearanc remov ampute leg foot
+341_0;new secur intern flight
+341_1;new secur intern flight luggag passeng
+341_2;secur intern flight luggag passeng screen
+341_3;increas secur flight
+341_4;increas screen flight
+341_5;new secur flight
+341_6;addit secur intern flight
+341_7;luggag screen flight
+341_8;luggag screen fli
+341_9;fli safeti screen
+342_0;diplomat statu sensit inform
+342_1;diplomat trade secret theft
+342_2;diplomat espionag
+342_3;diplomat access sensit classifi trade technolog inform
+342_4;diplomat access highli classifi industri project
+342_5;diplomat abus posit power sensit highli classifi inform
+342_6;diplomat trade secret spi diplomat
+342_7;diplomat statu theft illeg econom deport technolog classifi industri
+343_0;polic kill
+343_1;policeman death murder
+343_2;policeman casualti
+343_3;civilian polic offic kill duti
+343_4;ex past polic offic kill associ
+343_5;civilian polic offic kill keep testifi
+343_6;civilian polic offic death kill
+343_7;polic death duti crimin trial wit silenc payback assassin kill die
+344_0;wast time on email
+344_1;email overload
+344_2;email ineffici
+344_3;email time sink
+344_4;email abus
+344_5;email misus
+344_6;social email
+344_7;privat email use work
+344_8;email abus excess cost system owner
+344_9;organ email user abus
+345_0;tobacco sale outsid us
+345_1;us tobacco compani oversea sale
+345_2;us tobacco sale oversea market health find
+345_3;us tobacco sale oversea health econom factor
+345_4;intern tobacco sale health studi caus effect
+345_5;north america oversea tobacco product sale report
+345_6;sale tobacco product unit state
+345_7;market strategi unit state tobacco compani
+345_8;health issu unit state tobacco sale
+345_9;unit state tobacco intern sale health
+346_0;educ standard around the world
+346_1;intern educ standard pre teen
+346_2;pre teen educ standard
+346_3;unit state us educ standard pre teen young student
+346_4;countri outsid unit state us standard pre teen young student
+346_5;nation curriculum educ standard pre teen young student
+346_6;educ standard primari level countri
+346_7;educ minimum standard pre teen children curriculum learn superior better
+346_8;countri standard primari student pupil
+347_0;effort to prevent extinct
+347_1;prevent wildlif extinct
+347_2;protect speci
+347_3;prevent extinct wildlif outsid us
+347_4;prevent extinct wildlif intern
+347_5;endang nativ speci prevent
+347_6;worldwid wildlif extinct preserv
+347_7;wildlif extinct prevent europ
+347_8;wildlif extinct prevent australia
+347_9;endang nativ speci protect
+348_0;agoraphobia incid
+348_1;agoraphobia
+348_2;agoraphobia
+348_3;agoraphobia preval
+348_4;fear open public place common underreport
+348_5;agoraphobia profess occup stori
+348_6;cope manag agoraphobia
+348_7;agoraphobia percent occurr
+348_8;agoraphobia incid preval common deal cope
+348_9;agoraphobia widespread
+349_0;metabol chemic reaction produc energi
+349_1;catabol anabol reaction glycolysi kreb cycl metabol rate
+349_2;metabol
+349_3;chemic reaction keep live cell healthi
+349_4;catabol anabol reaction metabol process
+349_5;glycolysi atp energi
+349_6;live cell chemic reaction energi product
+349_7;chemic reaction live cell metabol glycolysi kreb cycl disord
+349_8;mitochondria
+349_9;adenosin triphosph
+350_0;daili comput use risk
+350_1;comput use problem
+350_2;comput physic problem
+350_3;comput carpal tunnel cataract fatigu
+350_4;comput carpal tunnel
+350_5;health hazard daili comput use
+350_6;comput termin health hazard
+350_7;physic problem caus daili use comput termin
+350_8;eye strain fatigu caus use comput termin
+350_9;health risk sit front comput daili
+351_0;petroleum explor falkland island south atlant
+351_1;petroleum explor south atlant falkland island
+351_2;falkland petroleum explor
+351_3;petroleum explor falkland island
+351_4;petroleum search south atlant near falkland island
+351_5;petroleum search south atlant near falkland island argentina tension
+351_6;petroleum explor south atlant falkland
+351_7;oil ga petrol petroleum explor south atlant falkland island discoveri resourc
+352_0;chunnel channel tunnel impact british
+352_1;british chunnel
+352_2;impact chunnel british economi
+352_3;chunnel british economi
+352_4;britain econom impact tunnel franc chunnel
+352_5;britain lifestyl chang tunnel franc chunnel
+352_6;chunnel channel tunnel impact uk economi
+352_7;chunnel channel tunnel benefit britain lifestyl contin franc
+353_0;antarctica scientif explor
+353_1;antarctica scientif explor current
+353_2;antarctica scientif explor plan
+353_3;antarct expedit futur
+353_4;scientif investig systemat explor antarctica
+353_5;histori antarct explor scientif investig
+353_6;plan research activ antarctica
+353_7;scientif experi antarctica
+353_8;scientif studi perform antarctica
+353_9;antarctica scientif explor
+354_0;journalist at risk
+354_1;journalist kill arrest hostag
+354_2;journalist hostag arrest kill
+354_3;list journalist kill
+354_4;journalist kill action
+354_5;journalist hostag situat
+354_6;journalist risk war zone
+354_7;journalist kill action
+354_8;journalist kill work
+354_9;journalist endang work
+355_0;spaceborn ocean remot sens
+355_1;oceanographi space
+355_2;spaceborn ocean remot sens applic oceanographi
+355_3;spaceborn ocean remot sens
+355_4;satellit remot sens oceanographi
+355_5;remot sens seab prospect
+355_6;marin scienc remot sens
+355_7;ocean remot sens satellit develop
+355_8;ocean remot sens space seab prospect
+355_9;ocean remot sens space mine studi
+356_0;use of estrogen postmenopaus women britain
+356_1;use oestrogen postmenopaus women britain
+356_2;estrogen use postmenopaus women
+356_3;hormon replac therapi uk
+356_4;estrogen therapi postmenopaus women unit kingdom
+356_5;estrogen therapi postmenopaus women britain
+356_6;estrogen suppress drug unit kingdom
+356_7;estrogen postmenopaus women britain
+356_8;estrogen postmenopaus women uk
+356_9;estrogen postmenopaus women unit kingdom
+357_0;intern boundari disput intern convent on the law of the sea
+357_1;intern convent law sea boundari disput
+357_2;intern boundari disput
+357_3;intern convent law sea
+357_4;intern boundari disput 200 mile special econom zone intern convent law sea
+357_5;intern boundari disput 12 mile territori water intern convent law sea
+357_6;intern boundari border disput 12 mile territori water 200 mile special econom zone
+357_7;boundari marin resourc 200 mile econom zone territori water convent
+358_0;car accid blood alcohol level
+358_1;drunk drive fatal blood alcohol level
+358_2;blood alcohol level correl traffic accid
+358_3;blood alcohol level car fatal
+358_4;automobil accid blood alcohol level bac driver
+358_5;automobil accid blood alcohol level likelihood probabl crash
+358_6;bac blood alcohol level content car fatal rate
+358_7;drink drive bac fatal
+358_8;intox influenc blood alcohol excess death fatal crash accid manslaught alcohol booz
+359_0;mutual fund perform predictor
+359_1;mutual fund perform predictor
+359_2;mutual fund perform predictor
+359_3;mutual fund perform metric
+359_4;mutual fund perform reliabl indic futur perform
+359_5;mutual fund perform reliabl indic
+359_6;mutual fund perform predict reliabl
+359_7;predictor mutual fund perform lead trail outperform invest manag aggress
+360_0;drug legal benefit
+360_1;drug legal benefit
+360_2;drug legal
+360_3;drug legal posit
+360_4;drug legal reduct overdos inject center
+360_5;drug legal drug user avoid contact violent drug dealer
+360_6;drug legal puriti drug regul avoid harm impur
+360_7;drug legal result declin use addict given support treatment public health issu
+360_8;drug legal benefit posit
+360_9;drug legal benefit crime reduct
+361_0;cloth sweatshop
+361_1;cloth sweatshop
+361_2;cloth sweatshop
+361_3;cloth sweatshop
+361_4;cloth sweatshop work condit salari countri
+361_5;cloth sweatshop trade global asia africa
+361_6;sweatshop cloth
+361_7;cloth sweatshop sweat shop design label ethic underpaid underag
+362_0;human smuggl incid
+362_1;monetari gain human smuggl
+362_2;monetari gain human smuggl larg group
+362_3;human smuggl
+362_4;human traffick
+362_5;human smuggl traffick incid
+362_6;human smuggl oper
+362_7;human smuggl oper econom structur
+362_8;human traffick incid smuggler money
+362_9;human traffick caught econom gain
+363_0;transport tunnel disast
+363_1;tunnel disast train car automobil
+363_2;transport tunnel disast
+363_3;train tunnel disast
+363_4;motorway tunnel disast
+363_5;train passeng tunnel accid
+363_6;tunnel construct disast
+363_7;tunnel train collaps transport link
+363_8;tunnel disast kill worker transport
+363_9;tunnel natur disast threaten live travel
+364_0;rabi case
+364_1;human rabi
+364_2;rabi
+364_3;rabi confirm
+364_4;rabi contain strategi confirm
+364_5;rabi correct measur control spread diseas
+364_6;rabi exampl confirm prevent
+364_7;rabi attack bite incid recoveri treatment rabid anim
+365_0;el nino effect
+365_1;el nino effect
+365_2;el nino
+365_3;el nino effect
+365_4;el nino effect flood
+365_5;el nino effect drought
+365_6;el nino effect global warm climat chang
+365_7;el nino impact
+365_8;el nino weather warm storm rain wind temperatur ocean flood drought
+366_0;cyanid industri commerci use
+366_1;cyanid commerci industri applic
+366_2;cyanid
+366_3;industri commerci cyanid
+366_4;cyanid rich wast industri
+366_5;toxic cyanid need industri
+366_6;cyanid industri commerci use
+366_7;cyanid use industri gold mine
+367_0;piraci
+367_1;boat piraci
+367_2;boat piraci
+367_3;modern instanc piraci
+367_4;piraci incid near africa
+367_5;pirat take board ship
+367_6;intern piraci report
+367_7;ship taken modern pirat
+367_8;pirat take ship recent time
+367_9;pirat board ship piraci worldwid 2000
+368_0;in vitro fertil
+368_1;vitro fertil
+368_2;vitro fertil
+368_3;ivf
+368_4;vitro fertil
+368_5;vitro fertil sperm egg artifici environ
+368_6;vitro fertil freez egg sperm embryo
+368_7;vitro fertil ivf explain
+368_8;vitro vitro sperm egg ova frozen artifici embryo fertil
+369_0;anorexia nervosa bulimia
+369_1;anorexia nervosa bulimia caus treatment
+369_2;anorexia nervosa bulimia
+369_3;anorexia nervosa bulimia caus
+369_4;anorexia nervosa bulimia treatment
+369_5;anorexia nervosa bulimia caus lax self induc vomit excess exercis
+369_6;anorexia bulimia eat disord caus treatment
+369_7;caus treatment anorexia nervosa bulimia vomit lax exercis weight ill
+370_0;law qualiti process food beverag drug
+370_1;food beverag drug process law
+370_2;food process
+370_3;food beverag drug qualiti safeti
+370_4;fda usa food beverag drug
+370_5;law qualiti control usa fda us addit preserv
+370_6;law qualiti control usa fda us impur poison substanc
+370_7;law qualiti control usa fda us spoilag prevent
+370_8;law qualiti control usa fda us nutrit enrich
+370_9;law qualiti control usa fda us grade meat veget
+371_0;health insur coverag holist non tradit medicin treatment
+371_1;health insur coverag acupunctur non tradit medicin treatment
+371_2;health insur coverag
+371_3;health insur non tradit medicin
+371_4;health insur coverag unproven medic treatment acupunctur
+371_5;health insur coverag natur therapi
+371_6;health insur cover altern medicin
+371_7;health insur coverag altern medicin therapi prevent well
+372_0;nativ american casino gambl
+372_1;nativ american casino gambl social implic
+372_2;nativ american casino gambl growth
+372_3;socio econom impact nativ american casino
+372_4;growth indian tribe casino
+372_5;tribe casino gambl
+372_6;nativ american casino gambl
+372_7;nativ american casino gambl
+372_8;nativ american casino gambl social implic
+372_9;nativ american casino gambl effect economi
+373_0;us export encrypt concern
+373_1;export concern encrypt hardwar
+373_2;encrypt equip export concern
+373_3;unit state encrypt export concern commerci exploit
+373_4;unit state us encrypt export commerci exploit
+373_5;unit state us encrypt break cipher counter intellig anti crime
+373_6;unit state us hack weak encrypt counter intellig anti crime
+373_7;usa unit state export encrypt equip devic
+374_0;nobel prize winner
+374_1;nobel prize winner biographi
+374_2;list nobel prize winner
+374_3;background nobel prize winner
+374_4;nobel prize field studi name year
+374_5;nobel prize winner year award field studi earli career
+374_6;nobel prize winner year award field studi motiv work
+374_7;nobel prize winner list
+375_0;hydrogen energi sourc
+375_1;hydrogen energi sourc
+375_2;research hydrogen fuel
+375_3;hydrogen fusion fuel research
+375_4;hydrogen energi research statu
+375_5;hydrogen energi control fusion
+375_6;hydrogen energi power engin
+375_7;hydrogen energi safeti feasibl
+375_8;hydrogen energi sourc car
+375_9;hydrogen energi power transport
+376_0;intern court of justic case
+376_1;world court intern court justic case type
+376_2;intern court justic mandat
+376_3;intern court justic case type
+376_4;intern court justic case studi
+376_5;intern court justic case
+376_6;world court intern court justic case
+376_7;world court intern court justic case war tribun
+376_8;world court intern court justic icj case
+377_0;cigar smoke popular
+377_1;renew interest cigar smoke
+377_2;cigar smoke
+377_3;cigar smoke popular rise
+377_4;cigar smoke popular increas econom social issu
+377_5;cigar smoke popular increas cigar night cigar room
+377_6;cigar smoke popular increas actor smoke cigar movi product
+377_7;cigar smoke popular spike
+378_0;euro opposit
+378_1;euro currenc dislik
+378_2;euroscept
+378_3;euro currenc opposit
+378_4;euro opposit
+378_5;opposit use euro
+378_6;currenc polici use euro
+378_7;opposit european currenc
+378_8;countri oppos euro
+378_9;countri like euro reason
+379_0;mainstream impair children
+379_1;mainstream children physic mental impair
+379_2;mainstream handicap children
+379_3;children impair school support
+379_4;mainstream children physic mental impair
+379_5;mainstream children pro con
+379_6;educ studi mainstream impair children
+379_7;place disabl children normal school
+379_8;place mental impair student normal school
+379_9;mental disabl student public school
+380_0;obes medic treatment
+380_1;medic treatment obes
+380_2;obes treatment
+380_3;medic treatment obes
+380_4;treatment obes prescrib medic
+380_5;treatment obes treatment tummi tuck posit effect
+380_6;obes treatment medic
+380_7;obes morbid treatment manag side effect danger
+381_0;altern medicin success
+381_1;altern medicin effect
+381_2;altern medicin treatment success
+381_3;altern medicin
+381_4;altern medicin ill diseas success rate
+381_5;altern medicin treatment diseas success rate
+381_6;altern medicin treatment cancer psycholog stress
+381_7;altern medicin success
+382_0;hydrogen car
+382_1;hydrogen fuel piston driven automobil hydrogen fuel cell
+382_2;hydrogen fuel
+382_3;hydrogen fuel piston car safeti
+382_4;hydrogen fuel safe storag vehicl car
+382_5;hydrogen fuel cell gener electr drive car
+382_6;hydrogen fuel car
+382_7;hydrogen automot engin safeti fuel cell car energi futur
+383_0;mental ill drug
+383_1;mental ill medicin
+383_2;mental ill medic
+383_3;mental ill treatment drug
+383_4;mental ill drug
+383_5;drug use treat depress
+383_6;drug use treat anxieti
+383_7;drug use treat schizophrenia
+383_8;drug use treat psychosi
+383_9;drug use treat ptsd post traumat stress disord
+384_0;space station moon colon
+384_1;space station moon colon
+384_2;colon moon
+384_3;space station colon moon
+384_4;plan colon moon
+384_5;reason moon colon delay
+384_6;plan stage underway colon moon
+384_7;countri commit resourc establish moon base
+384_8;moon coloni space base
+385_0;hybrid car engin
+385_1;hybrid automobil
+385_2;hybrid car
+385_3;hybrid car
+385_4;hybrid car engin
+385_5;current statu hybrid automot automobil car engin
+385_6;current statu hybrid automot automobil car methanol engin
+385_7;current statu hybrid automot automobil car alcohol engin
+385_8;current statu hybrid automot automobil car hydrogen engin
+385_9;current statu hybrid automot automobil car engin cost consum
+386_0;teach disabl children
+386_1;tool teach disabl children
+386_2;current special need method
+386_3;new method teach disabl children
+386_4;teach disabl children new pedagogi methodolog
+386_5;teach mental challeng children new pedagogi methodolog
+386_6;teach physic disabl children new pedagogi methodolog
+386_7;disabl children teach method
+387_0;radioact wast handl
+387_1;effect handl radioact wast
+387_2;radioact wast
+387_3;radioact wast safe handl
+387_4;radioact wast safe handl inciner
+387_5;radioact wast safe handl cement
+387_6;radioact wast safe handl bitumen
+387_7;radioact wast safe handl vitrif
+387_8;radioact wast safe handl underground nuclear explos
+387_9;radioact wast manag techniqu
+388_0;organ fertil
+388_1;organ fertil
+388_2;organ fertil
+388_3;organ safe fertil soil enhanc
+388_4;compost sludg organ fertil safe soil enhanc
+388_5;soil enhanc organ safe fertil
+388_6;ash veget wast organ fertil safe soil enhanc
+388_7;microorgan organ fertil safe soil enhanc
+388_8;compost soil enhanc organ fertil
+389_0;illeg technolog transfer
+389_1;illeg technolog transfer intern
+389_2;technolog espionag
+389_3;accus illeg technolog transfer
+389_4;illeg transfer militari technolog weapon
+389_5;illeg hostil document sold oversea
+389_6;illeg technolog sold compani oversea
+389_7;illeg technolog sold oversea
+389_8;illeg product sold oversea govern
+389_9;illeg formula sold oversea person
+390_0;orphan drug
+390_1;orphan drug act
+390_2;orphan drug
+390_3;orphan drug peopl
+390_4;drug treat diseas affect peopl orphan drug
+390_5;orphan drug act orphan diseas condit
+390_6;orphan drug act orphan diseas condit handl countri outsid us
+390_7;orphan drug issu
+391_0;rd price of drug
+391_1;research develop drug cost
+391_2;drug price research
+391_3;research develop price drug
+391_4;research develop pharmaceut aspect affect cost
+391_5;research develop pharmaceut cost make drug
+391_6;research develop pharmaceut cost produc drug scale
+391_7;drug price r research develop
+392_0;robot applic
+392_1;current applic robot
+392_2;robot
+392_3;robot applic current
+392_4;robot applic use automot automobil car industri
+392_5;robot applic use construct industri
+392_6;robot applic use food industri
+392_7;robot applic use hospit industri
+392_8;robot applic use everi home
+392_9;robot applic use
+393_0;merci kill
+393_1;euthanasia
+393_2;merci kill
+393_3;merci kill
+393_4;merci kill legal statu
+393_5;merci kill europ
+393_6;merci kill unit state
+393_7;merci kill australia
+393_8;merci kill discuss
+393_9;merci kill argument
+394_0;homeschool
+394_1;educ home
+394_2;home school qualiti educ
+394_3;homeschool
+394_4;homeschool methodolog
+394_5;home school program report success
+394_6;social aspect homeschool
+394_7;home school children
+394_8;homeschool outcom
+394_9;educ child home
+395_0;attract tourism to boost economi
+395_1;attract tourism improv local economi
+395_2;tourism success stori
+395_3;attract tourism
+395_4;tourist trap improv local economi
+395_5;tourism attempt improv local economi
+395_6;increas tourism economi boost
+395_7;tourism boost enhanc polici increas visitor year year
+396_0;sick build syndrom
+396_1;build relat ill
+396_2;sick build syndrom
+396_3;asbesto
+396_4;sick build syndrom
+396_5;sick build syndrom
+396_6;build relat ill
+396_7;air condit sick
+396_8;pollut control insid build
+396_9;sick build syndrom asbesto
+397_0;automobil recal
+397_1;automobil recal reason
+397_2;automobil recal
+397_3;car manufactur recal
+397_4;car compani recal
+397_5;major incid behind car vehicl recal
+397_6;car recal
+397_7;automobil recal
+397_8;car recal manufactur
+397_9;car recal compani
+398_0;european convent arm cut dismantl europ arsen
+398_1;european convent arm cut
+398_2;european convent arm cut
+398_3;reduc forc europ cfe european convent arm cut
+398_4;number weapon reduc european convent arm cut
+398_5;number soldier retrench european convent arm cut
+398_6;number reduct made warsaw pact european convent arm cut
+398_7;number reduct made nato european convent arm cut
+398_8;european convent arm cut warsaw pact nato
+399_0;oceanograph vessel
+399_1;oceanograph vessel activ equip
+399_2;oceanographi boat ship vessel equip activ
+399_3;oceanograph vessel
+399_4;oceanograph vessel sea map
+399_5;equip use oceanograph vessel
+399_6;survey ship oceanograph research
+399_7;drone ocean undersea map
+399_8;unman deep sea robot explor
+399_9;drone oceanograph vessel monitor
+400_0;amazon rainforest preserv
+400_1;amazon rainforest preserv south american author
+400_2;amazon rainforest preserv measur
+400_3;amazon conserv
+400_4;amazon rainforest preserv local organ
+400_5;brazil govern effort preserv amazon rainforest
+400_6;preserv amazon tropic rainforest
+400_7;preserv amazon tropic rainforest author organ
+400_8;preserv amazon tropic rainforest offici institut
+400_9;preserv amazon tropic rainforest govern polici
+401_0;integr foreign minor germani
+401_1;foreign minor germani integr issu
+401_2;germani foreign minor integr
+401_3;languag cultur differ immigr germani
+401_4;foreign minor germani cultur languag issu
+401_5;foreign minor germani immigr difficulti caus reason
+401_6;foreign minor germani immigr difficulti integr
+401_7;languag cultur foreign minor germani
+402_0;behavior genet impact behavior person
+402_1;behavior genet human person
+402_2;behavior genet
+402_3;genet environment factor behavior studi person
+402_4;behavior genet research behavior person
+402_5;behavior genet substanc abus
+402_6;behavior genet detect disposit toward addict behavior
+402_7;behavior genet genet disord add attent deficit disord
+402_8;behaviour genet research
+403_0;osteoporosi diet potassium magnesium fruit veget bone miner densiti
+403_1;osteoporosi
+403_2;effect dietari intak potassium magnesium fruit veget determin bone miner densiti elderli men women thu prevent osteoporosi bone decay
+403_3;osteoporosi
+403_4;dietari intak potassium osteoporosi prevent
+403_5;potassium magnesium fruit veget bone miner densiti osteoporosi
+403_6;fruit veget prevent osteoporosi elderli
+403_7;diet nutrit prevent osteoporosi
+403_8;osteoporosi prevent potassium magnesium bone miner densiti
+404_0;ireland peac talk
+404_1;ireland peac talk delay
+404_2;ireland peac talk disrupt
+404_3;ireland peac talk delay violenc bomb
+404_4;northern ireland peac talk delay
+404_5;peac talk disrupt ireland
+404_6;ireland peach talk interrupt
+404_7;peac talk delay ireland violenc
+404_8;peac talk delay ireland violent act
+404_9;number time peac talk delay ireland due violenc
+405_0;unexpect cosmic event radiat supernova outburst new comet
+405_1;unexpect cosmic event
+405_2;unexpect unexplain cosmic event celesti phenomena radiat supernova outburst new comet
+405_3;cosmic event
+405_4;celesti phenomena
+405_5;celesti phenomena detect radiat supernova outburst comet
+405_6;unexpect unexplain cosmic event radiat supernova
+405_7;cosmic event detect unexplain bewild bemus phenomena
+405_8;supernova observ unexplain unexpect
+405_9;unexplain cosmic celesti event
+406_0;parkinson diseas treatment
+406_1;parkinson diseas
+406_2;parkinson treatment
+406_3;parkinson diseas treatment drug
+406_4;parkinson diseas treatment
+406_5;manag onset develop parkinson diseas
+406_6;studi drug program patient care parkinson diseas success rate
+406_7;parkinson diseas treatement
+406_8;parkinson diseas treatment
+406_9;parkinson qualiti life
+407_0;poach wildlif preserv impact
+407_1;poach wildlif preserv effect
+407_2;poach impact wildlif preserv
+407_3;impact poach wildlif reserv
+407_4;poach wildlif preserv
+407_5;impact poach preserv
+407_6;impact poach preserv save eleph
+407_7;impact poach preserv save turtl
+407_8;wildlif poach impact
+407_9;preserv wildlif poach affect
+408_0;tropic storm
+408_1;tropic storm hurrican typhoon properti damag life loss
+408_2;tropic storm hurrican typhoon damag death
+408_3;effect tropic cyclon
+408_4;damag caus hurrican
+408_5;damag caus typhoon
+408_6;tropic storm hurrican properti damag
+408_7;tropic storm typhoon properti damag
+408_8;tropic storm hurrican death
+408_9;tropic storm typhoon death
+409_0;legal action pan am 103 lockerbi 1988
+409_1;pan flight 103 legal
+409_2;lockerbi legal action
+409_3;legal action destruct pan flight 103
+409_4;destruct pan flight scotland 1988
+409_5;pan flight 103 lockerbi scotland legal action
+409_6;pan flight 103 lockerbi scotland legal charg claim
+409_7;pan flight 103 lockerbi scotland legal fine impos
+409_8;pan flight 103 scotland legal
+409_9;legal pan flight 103
+410_0;schengen agreement border control
+410_1;schengen agreement
+410_2;schengen agreement
+410_3;schengen agreement western europ border control visa insur
+410_4;schengen agreement signatur
+410_5;schengen border control countri involv
+410_6;schengen border control aspir
+410_7;schengen agreement reason
+411_0;shipwreck salvag
+411_1;shipwreck treasur
+411_2;shipwreck
+411_3;shipwreck salvag sunken ship treasur discoveri
+411_4;shipwreck salvag recoveri treasur sunken ship
+411_5;dive salvag treasur ship
+411_6;maritim finder keeper ship salvag treasur shipwreck
+411_7;shipwreck salvag treasur recoveri
+412_0;airport secur
+412_1;airport secur
+412_2;airport measur
+412_3;airport secur measur guidelin regul
+412_4;airport secur measur place
+412_5;airport secur measur propos airport
+412_6;airport secur measur propos airport caus tragedi
+412_7;airport secur measur propos airport effect secur
+412_8;airport secur measur propos airport train staff
+412_9;secur measur airport
+413_0;new steel product method
+413_1;steel product methodolog
+413_2;new steel product method
+413_3;new steel product method
+413_4;mini mill steel product
+413_5;produc steel new method
+413_6;new method produc steel minimil blast furnac method entrepreneur compani
+413_7;new method produc steel minimil blast furnac method success failur problem solut critic
+413_8;steel product method mini mill
+414_0;cuba sugar export
+414_1;cuba sugar export partner
+414_2;cuba sugar export
+414_3;sugar import cuba
+414_4;cuba sugar export quantiti
+414_5;import cuban sugar
+414_6;cuban sugar import
+414_7;cuba sugar industri export per year
+414_8;cuban export sugar industri
+414_9;much sugar cuba export
+415_0;drug traffick golden triangl
+415_1;golden triangl drug traffick
+415_2;drug traffick
+415_3;golden triangl drug traffick
+415_4;drug traffick burma thailand lao golden triangl
+415_5;drug issu golden triangl
+415_6;drug traffick golden triangl burma thailand lao
+415_7;drug traffick intern organis crime group golden triangl
+415_8;drug traffick intern organis crime group golden triangl california hawaii
+415_9;golden triangl drug traffick
+416_0;three gorg project
+416_1;three gorg project statu
+416_2;three gorg project complet
+416_3;three gorg project statu
+416_4;statu three gorg project
+416_5;statu three gorg project
+416_6;progress report three gorg project
+416_7;three gorg project complet statu
+416_8;three gorg project complet date
+416_9;three gorg project setback
+417_0;measur creativ
+417_1;measur creativ
+417_2;measur creativ
+417_3;creativ character measur
+417_4;creativ measur metric
+417_5;measur creativ person test psycholog assess
+417_6;measur creativ guilford measur
+417_7;creativ measur
+418_0;quilt gener incom
+418_1;quilt incom
+418_2;quilt
+418_3;quilt product book class servic
+418_4;incom quilt
+418_5;quilt gener incom quilt class book lesson
+418_6;quilt gener incom object quilt
+418_7;quilt gener incom museum quilt
+418_8;quilt gener incom fundrais
+418_9;incom quilt
+419_0;car tire recycl
+419_1;car tyre recycl
+419_2;automobil tire recycl
+419_3;old automobil tire recycl
+419_4;use recycl tire
+419_5;recycl tire road construct
+419_6;new method car tire recycl
+419_7;car tire recycl scrap rubber
+419_8;automobil tire recycl scrap rubber
+419_9;automobil tire recycl reef build
+420_0;carbon monoxid poison global
+420_1;intern carbon monoxid poison
+420_2;carbon monoxid poison
+420_3;carbon monoxid poison symptom caus prevent
+420_4;carbon monoxid poison statist
+420_5;carbon monoxid poison global
+420_6;carbon monoxid poison symptom caus prevent global
+420_7;carbon monoxid poison symptom global faulti heater
+420_8;carbon monoxid poison rate worldwid
+421_0;dispos industri wast
+421_1;intern industri wast manag
+421_2;industri wast dispos
+421_3;industri wast dispos storag
+421_4;hazard industri wast manag storag
+421_5;industri wast dispos manag
+421_6;industri wast manag hazard
+421_7;industri wast manag servic
+421_8;industri wast dispos method
+422_0;stolen art
+422_1;forg art
+422_2;art theft forgeri
+422_3;art forgeri scandal
+422_4;art theft scandal
+422_5;stolen art piec
+422_6;incid forg artwork
+422_7;art theft report
+422_8;stolen one kind art
+422_9;stolen art museum
+423_0;mirjana markov
+423_1;mirjana markov slobodan milosev
+423_2;mirjana markov
+423_3;mira markov
+423_4;milosev markov wife
+423_5;serbian presid wife mirjana markov
+423_6;milosev  wife mirjana markov
+423_7;mirjana markov
+423_8;serbian presid wife mira
+423_9;presid milosev wife mirjana markov mira
+424_0;alleg suicid murder
+424_1;alleg suicid murder
+424_2;suspici suicid
+424_3;disguis murder crime suicid
+424_4;alleg suicid actual murder
+424_5;victim suicid murder
+424_6;alleg suicid actual murder secret sinist plot
+424_7;murder disguis suicid
+425_0;money counterfeit
+425_1;currenc counterfeit
+425_2;counterfeit
+425_3;counterfeit currenc incid
+425_4;counterfeit money modern time
+425_5;fake money modern era method product
+425_6;fake money use 21st centuri instanc use
+425_7;modern money currenc counterfeit
+426_0;polic dog
+426_1;law enforc dog
+426_2;polic dog train
+426_3;polic dog handler
+426_4;polic dog
+426_5;dog use law enforc
+426_6;polic dog
+426_7;law enforc dog
+426_8;polic dog train oper
+426_9;drug snif dog train oper
+427_0;uv damag eye
+427_1;uv light harm eye
+427_2;uv damag eyesight
+427_3;uv damag eye
+427_4;eye problem caus excess exposur sunlight
+427_5;uv light caus eye problem
+427_6;cataract ocular melanoma caus sunlight
+427_7;uv damag vision
+427_8;uv damag human eye
+427_9;ultraviolet damag human eye
+428_0;countri with declin birth rate
+428_1;countri declin birth rate
+428_2;birth rate
+428_3;declin birth rate europ
+428_4;declin birth rate asia
+428_5;declin birth rate develop countri
+428_6;countri declin birth rate africa
+428_7;countri declin birth rate europ
+428_8;countri declin birth rate oceania
+428_9;countri declin birthrat
+429_0;legionnair diseas outbreak
+429_1;legionnair diseas outbreak
+429_2;legionnair outbreak
+429_3;legionnair diseas outbreak
+429_4;legionnair diseas outbreak locat
+429_5;legionnair diseas outbreak build air condit locat
+429_6;legionnair diseas outbreak worldwid
+429_7;legionnair diseas outbreak
+429_8;legionnair diseas outbreak case
+430_0;african killer bee human attack
+430_1;african killer bee attack human
+430_2;african bee human attack
+430_3;killer bee human attack incid
+430_4;killer bee attack human
+430_5;african killer bee attack human
+430_6;killer bee loss human life
+430_7;killer bee unsaf save victim
+430_8;african killer bee attack
+431_0;robot technolog develop
+431_1;robot latest develop
+431_2;robot
+431_3;new develop robot technolog
+431_4;recent advanc robot technolog
+431_5;robot technolog develop
+431_6;latest develop robot technolog
+431_7;robot technolog recent trend develop
+431_8;robot develop applic
+432_0;polic profil of motorist
+432_1;polic profil traffic stop
+432_2;motorist profil
+432_3;polic profil motorist
+432_4;polic stop motorist race age sex gender
+432_5;polic profil stop car race
+432_6;polic profil stop car age
+432_7;polic profil stop car sex gender
+432_8;polic profil stop car suburb
+432_9;polic profil stop car locat
+433_0;stoicism interest
+433_1;contemporari stoicism
+433_2;modern day stoicism
+433_3;list greek philosophi stoicism
+433_4;greek stoicism philosophi
+433_5;contemporari interest stoicism
+433_6;play greek stoicism philosophi
+433_7;product greek stoicism sage
+433_8;product greek stoicism philosoph
+433_9;stoicism modern age contemporari art
+434_0;estonia economi
+434_1;estonia economi
+434_2;estonia economi
+434_3;economi perform issu estonia
+434_4;estonia economi statist
+434_5;estonia union treati
+434_6;estonia monetari perform
+434_7;estonia economi
+435_0;curb popul growth
+435_1;popul control
+435_2;reduc popul growth
+435_3;popul control measur
+435_4;countri enforc birth control polici
+435_5;effect popul growth control
+435_6;reduc popul growth strategi
+435_7;studi reduc popul growth
+435_8;stunt popul growth intervent
+435_9;success attempt reduc popul growth
+436_0;railway accid caus
+436_1;train accid caus
+436_2;train accid
+436_3;train crash caus
+436_4;world rail accid
+436_5;caus railway accid
+436_6;famou railway accid
+436_7;railway accid worldwid caus
+436_8;tram accid worldwid caus
+436_9;trolley accid worldwid caus
+437_0;deregul ga electr impact custom
+437_1;ga electr util compani deregul
+437_2;deregul ga electr
+437_3;deregul ga electr util residenti custom
+437_4;deregul ga electr util price residenti price
+437_5;cost live increas deregul util ga electr
+437_6;cost live increas deregul util ga electr household pressur
+437_7;ga electr deregul implic result
+438_0;countri with increas in tourism
+438_1;increas tourism countri
+438_2;list countri boom tourism
+438_3;increas tourism europ
+438_4;increas tourism asia
+438_5;increas tourism australia
+438_6;increas tourism unit state
+438_7;countri experienc tourism increas
+438_8;countri surg tourist countri
+438_9;nation experienc tourist tourism travel backpack
+439_0;scientif discoveri 1990
+439_1;post 1990 scientif invent discoveri
+439_2;new scientif discoveri
+439_3;new recent scientif discoveri
+439_4;recent advanc scienc
+439_5;new scientif invent
+439_6;recent scientif invent
+439_7;recent scientif invent patent
+439_8;new scientif invent patent pend
+439_9;new scientif invent 1990
+440_0;elimin child labor
+440_1;child labor prevent
+440_2;child labor
+440_3;govern regul abus child labor
+440_4;child labor abus govern corpor
+440_5;child labor govern intervent
+440_6;child labor govern intervent worldwid
+440_7;child abus labor labour prevent govern corpor ngo
+441_0;lyme diseas treatment prevent
+441_1;lyme diseas prevent
+441_2;lyme diseas prevent
+441_3;lyme diseas treatment
+441_4;lyme diseas prevent treatment
+441_5;lyme diseas treatment
+441_6;prevent lyme diseas
+441_7;lyme diseas insect spray
+441_8;lyme diseas prevent treatment
+442_0;selfless heroic act
+442_1;altruist act
+442_2;heroism
+442_3;selfless heroic act
+442_4;heroic act
+442_5;heroic act explan
+442_6;selfless act benefit other
+442_7;altruist act small group
+442_8;altruist act small organis
+442_9;altruist act individu
+443_0;us invest sub saharan africa
+443_1;us invest africa
+443_2;north america assist sub saharan africa
+443_3;unit state invest sub saharan africa
+443_4;sub saharan african unit state invest
+443_5;sub saharan african us invest
+443_6;tanzania unit state invest
+443_7;angola unit state invest
+443_8;sudan unit state invest
+443_9;kenya unit state invest
+444_0;supercrit fluid environment protect measur
+444_1;supercrit fluid environment protect measur
+444_2;supercrit fluid use
+444_3;supercrit fluid pressur environment protect
+444_4;supercrit fluid environment protect
+444_5;pressur produc supercrit fluid environment protect
+444_6;supercrit fluid scf epa
+444_7;supercrit fluid environ protect
+445_0;femal clergi
+445_1;women clergi
+445_2;women pastor
+445_3;women clergi europ australia asia south america
+445_4;women clergi
+445_5;countri women clergi
+445_6;women church pastor europ
+445_7;women church pastor australia
+445_8;women church pastor worldwid
+445_9;women approv priest oversea
+446_0;countri where tourist suffer bodili harm or death
+446_1;violenc tourist
+446_2;tourist death bodili harm
+446_3;tourist like violent attack countri
+446_4;like violent attack travel countri
+446_5;countri like physic harm tourist
+446_6;tourist violenc harm death danger locat
+446_7;tourist danger attack mug theft violenc risk danger spot
+447_0;stirl engin
+447_1;stirl engin stirl cycl applic develop
+447_2;applic stirl engin stirl cycl
+447_3;develop stirl engin
+447_4;stirl cycl develop
+447_5;develop stirl engin futur environment friendli sustain
+447_6;stirl engin develop applic cycl
+447_7;stirl cycl engin develop applic innov
+448_0;ship loss weather
+448_1;shipwreck weather
+448_2;ship loss caus tropic storm hurrican typhoon cyclon
+448_3;weather loss ship sea
+448_4;weather reason shipwreck vessel intern water
+448_5;weather reason shipwreck vessel coastal water
+448_6;weather caus ship loss sea
+448_7;weather caus loss ship sink storm wave
+449_0;antibiot ineffect
+449_1;antibiot resist
+449_2;caus resist antibiot
+449_3;caus ineffect antibiot infect
+449_4;new drug test antibiot effect
+449_5;ineffect antibiot infect caus
+449_6;agricultur caus ineffect antibiot
+449_7;farm anim fed antibiot caus ineffect
+449_8;antibiot effect new drug
+450_0;jordan king hussein middl east peac
+450_1;jordan king hussein peac
+450_2;jordan king hussein peac middl east
+450_3;jordanian king hussein peac middl east
+450_4;jordanian king hussein israel effort peac process
+450_5;jordanian king hussein israel jordan peac treati
+450_6;jordan king hussein peac middl east israel
+450_7;king hussein jordan middl east peac process broker israel assist summit
+601_0;turkey river control iraq water resourc
+601_1;turkish river control project iraqi
+601_2;turkish river control project iraq water resourc
+601_3;water resourc issu turkey iraq
+601_4;turkish river control project iraq water resourc
+601_5;river control issu turkey iraq
+601_6;turkish river border control project iraq water resourc transboundari cooper
+601_7;turkish river control project iraq water sourc impact
+602_0;separ czech republ slovak republ czechoslovakia
+602_1;czechoslovakia establish sovereign countri czech slovak
+602_2;czech slovakia process separ
+602_3;czech slovakia break
+602_4;czech slovak republ separ sovereign countri process
+602_5;czechoslovakia czech slovak republ separ process
+602_6;czechoslovakia czech slovak republ dissolut
+602_7;czech slovak czechoslovakia separ process
+603_0;us lawsuit against tobacco industri
+603_1;us lawsuit tobacco industri
+603_2;unit state lawsuit tobacco industri cigarett health problem
+603_3;unit state lawsuit tobacco industri death cigarett smoke
+603_4;us unit state lawsuit tobacco health problem smoke
+603_5;us unit state lawsuit tobacco health problem nicotin spike
+603_6;usa us unit state lawsuit tobacco industri health problem death
+603_7;cigarett tobacco lobbi litig health cancer alleg lawsuit juri trial outcom settlement
+604_0;lyme diseas arthriti
+604_1;lyme diseas arthriti
+604_2;tick born lyme diseas arthriti
+604_3;lyme diseas arthriti link
+604_4;lyme diseas inflammatori joint disord arthriti
+604_5;lyme arthriti evid studi infect
+604_6;arthriti lyme diseas link
+604_7;arthriti tick lyme diseas scientif inflammatori joint disord pain pain
+605_0;univers health care uk pro con
+605_1;uk univers health care system
+605_2;great britain univers health care system
+605_3;england univers health care system
+605_4;pro con unit kingdom health care system
+605_5;britain univers health care system pro con
+605_6;britain univers health care system critic
+605_7;britain univers health care system recommend
+605_8;uk univers health pro con posit neg
+606_0;ban leg trap
+606_1;anim trap ban
+606_2;ban leg trap
+606_3;ban steel jaw trap
+606_4;leg trap captur anim ban prohibit
+606_5;steel jaw trap captur anim ban prohibit
+606_6;steel jaw trap captur anim ban prohibit sale fur market
+606_7;anim leg trap ban
+607_0;human genet code map mileston
+607_1;human genom map mileston
+607_2;human genom project mileston
+607_3;human genom sequenc map achiev
+607_4;human genom sequenc import mileston
+607_5;map human genom studi import key mileston breakthrough
+607_6;map human genom studi achiev mileston timelin
+607_7;map sequenc human genom mileston
+608_0;us social secur benefit tax pro con
+608_1;tax us social secur benefit
+608_2;pro con unit state social secur benefit incom tax
+608_3;social secur benefit tax us unit state debat
+608_4;us unit state social secur tax debat
+608_5;us unit state social secur tax debat deficit reduct
+608_6;usa unit state us social secur tax pro con
+608_7;pro con advantag disadvantag tax us unit state welfar benefit
+609_0;per capita alcohol consumpt by countri state provinc
+609_1;intern alcohol consumpt comparison
+609_2;per capita alcohol consumpt across european countri
+609_3;per capita alcohol consumpt unit state
+609_4;per capita alcohol consumpt australia
+609_5;per capita alcohol consumpt asian countri
+609_6;per capita person consumpt alcohol worldwid
+609_7;per capita person consumpt alcohol countri
+609_8;per capita person consumpt alcohol state
+609_9;per capita person consumpt alcohol provinc
+610_0;us small busi neg impact rais minimum wage
+610_1;problem rais minimum wage busi
+610_2;impact unit state rais minimum wage
+610_3;rais minimum wage neg effect busi unit state us
+610_4;increas minimum wage hurt small busi unit state us
+610_5;reason small busi oppos increas minimum wage us unit state
+610_6;neg impact minimum wage increas usa unit state small busi
+610_7;impact effect us unit state small busi minimum wage increas oppos object
+611_0;violent kurd germani
+611_1;violenc kurd germani
+611_2;kurd violent activ germani pkk worker parti kurdistan
+611_3;pkk kurd violenc germani
+611_4;destruct activ perpetr kurd worker part kurdistan pkk germani
+611_5;terrorist activ perpetr kurd worker part kurdistan pkk germani
+611_6;violent activ perpetr kurd worker part kurdistan pkk germani
+611_7;burn arson activ perpetr kurd worker part kurdistan pkk germani
+611_8;riot activ perpetr kurd worker part kurdistan pkk germani
+611_9;kurd pkk violenc germani
+612_0;pro independ protest tibet arrest by chines
+612_1;tibet independ protest
+612_2;tibet independ protest arrest china
+612_3;independ protest tibet arrest china happen
+612_4;legal sentenc pro independ protest tibet
+612_5;anti chines anti chines pro independ pro independ protest tibet
+612_6;releas freedom pro independ protest tibet
+612_7;treatment pro independ protest tibet
+612_8;tibet arrest chines independ protest outcom
+613_0;dispos of berlin wall
+613_1;berlin wall dispos
+613_2;dismantl dispos berlin wall piec brick
+613_3;berlin wall piec souvenir
+613_4;berlin wall piec monument
+613_5;berlin wall dispos remov
+613_6;dispos piec berlin wall museum
+613_7;dispos piec berlin wall piec souvenir
+613_8;dispos piec berlin wall monument
+613_9;berlin wall souvenir dispos
+614_0;flavr savr
+614_1;flavr savr tomato calgen
+614_2;genet modifi flavor saver
+614_3;flavr savr tomato calgen
+614_4;flavr savr tomato calgen
+614_5;genet modifi food flavr savr tomato
+614_6;flavr savr inform calgen genet modifi
+614_7;flavor saver inform calgen genet modifi
+614_8;flavor saver inform calgen genet modifi tomato
+614_9;flavr savr inform calgen genet modifi tomato
+615_0;us raw timber export asia
+615_1;us timber export asia
+615_2;unit state raw timber export asia lumber industri
+615_3;environment issu timber export asia unit state
+615_4;raw timber export asia unit state us
+615_5;econom concern export raw timber asia unit state us
+615_6;environment concern export raw timber asia unit state us
+615_7;usa unit state us raw timber export asia impact
+616_0;volkswagen product mexico
+616_1;volkswagen product mexico
+616_2;volkswagen mexico product histori
+616_3;volkswagen product mexico
+616_4;volkswagen product mexico histori
+616_5;amount volkswagen automobil car automot vehicl produc mexico
+616_6;mexico volkswagen product histori
+616_7;volkswagen product mexico manufactur automot histori number car
+617_0;cuban economi reduc russian support
+617_1;reduct russian support cuban economi effect
+617_2;reduct russian support cuban economi
+617_3;russian less reduc support cuban economi
+617_4;russian less reduc support cuban economi assist relat
+617_5;cuba soviet union relat reduc support econom declin
+617_6;russian support reduct cuba econom impact
+617_7;russian support cuban economi aid reduc affect effect
+618_0;iran ayatollah khomeini death ramif
+618_1;presid ayatollah khomeini death iran effect
+618_2;death iranian presid ayatollah khomeini
+618_3;iranian presid ayatollah khomeini death
+618_4;iran presid ayatollah khomeini ramif aftermath death
+618_5;iran presid ayatollah khomeini successor
+618_6;ayatollah khomeini death impact ramif implic
+618_7;iranian presid ayatollah khomeini death consequ follow
+619_0;winni mandela kidnap south africa 1988
+619_1;winni mandela kidnap scandal
+619_2;winni mandela murder scandal
+619_3;winni mandela scandal decemb 1988 januari 1989
+619_4;winni mandela kidnap scandal south africa
+619_5;winni mandela kidnap
+619_6;winni mandela role kidnap murder
+619_7;winni mandela person involv kidnap
+619_8;winni mandela person involv kidnap charg convict scandal
+619_9;winni mandela kidnap scandal south africa
+620_0;south pacif nuclear test protest franc
+620_1;french protest nuclear test
+620_2;french respons south pacif nuclear test protest
+620_3;franc respond protest nuclear test south pacif
+620_4;french govern respons nuclear test protest
+620_5;franc respons protest nuclear test south pacif
+620_6;franc respons protest nuclear test
+620_7;condemn french nuclear test respons
+620_8;french repli protest nuclear test
+620_9;franc nuclear test protest media confer
+621_0;women ordain priest uk
+621_1;church england women ordain priest
+621_2;great britain women ordain church england priest
+621_3;britain approv women ordain church england priest
+621_4;britain approv women ordain church england priest vote church offici
+621_5;britain approv women ordain church england priest vote british parliament
+621_6;uk approv woman ordain priest
+621_7;women priest great britain uk unit kingdom england church ordain femal synod parliament
+622_0;price fix compani corpor indict
+622_1;price fix accus
+622_2;corpor price fix scandal
+622_3;price fix compani corpor
+622_4;compani corpor accus indict price fix product
+622_5;compani corpor accus indict price fix dram ram random access memori
+622_6;lysin price fix conspiraci accus indict price fix
+622_7;aluminium metal price fix conspiraci accus indict price fix
+622_8;music cd compact disc price fix conspiraci accus indict price fix
+622_9;price fix compani exampl
+623_0;ricin sarin soman anthrax weapon
+623_1;ricin sarin soman anthrax chemic weapon
+623_2;ricin sarin soman anthrax biomed weapon
+623_3;toxic chemic weapon
+623_4;toxic chemic weapon
+623_5;anthrax chemic weapon
+623_6;ricin chemic weapon
+623_7;sarin nerv agent chemic weapon
+623_8;soman chemic weapon
+623_9;ricin sarin soman anthrax chemic weapon use
+624_0;strateg defens initi sdi star war pro con
+624_1;star war strateg defens initi
+624_2;strateg defens initi sdi pro con
+624_3;sdi star war unit state defens strategi
+624_4;strateg defens initi star war sdi technic detail
+624_5;strateg defens initi star war sdi detail industri countri
+624_6;strateg defens initi star war sdi detail countri mad nuclear weapon
+624_7;strateg defens initi star war sdi detail mutual assur destruct
+624_8;strateg defens initi sdi star war develop pro con advantag disadvantag
+625_0;world trade center bomber 1993
+625_1;world trade center  1993 bomber arrest convict
+625_2;arrest convict world trade center wtc bomber
+625_3;world trade center februari 1993 bomb arrest convict bomber
+625_4;world trade center februari 1993 bomb legal process arrest held custodi
+625_5;world trade center februari 1993 bomb legal process arrest held custodi counter terror palestin
+625_6;wtc bomber 1993 arrest convict world trade center
+625_7;world trade center bomb 1993 arrest convict guilti
+626_0;human stamped death
+626_1;human stamped multipl death
+626_2;list human stamped
+626_3;human stamped sport event
+626_4;human stamped mani death
+626_5;human stamped result mass death toll
+626_6;human stamped kill 20 peopl toll
+626_7;human stamped huge loss life death toll
+626_8;human crush death sport event death toll
+626_9;human stamped huge loss life festiv death toll
+627_0;postsoviet russia food crisi us support
+627_1;usaid food crisi collaps soviet union ussr
+627_2;russia food crisi postsoviet unit state support
+627_3;us unit state usaid russia soviet union
+627_4;food shortag russia soviet union collaps us unit state foreign aid crisi
+627_5;food shortag russia soviet union collaps us unit state foreign aid crisi acut poverti
+627_6;us unit state usa soviet union food crisi russia
+627_7;us unit state russia wheat food soviet union collaps shortag
+628_0;justif us invad panama
+628_1;us invas panama justif
+628_2;unit state govern record panama invas
+628_3;us unit state panama invas reason
+628_4;unit state panama invas reason justif govern
+628_5;us unit state panama invas war drug
+628_6;us unit state panama invas money launder
+628_7;us unit state panama invas marin kill
+628_8;us unit state panama invas 35000 live protect
+628_9;usa us unit state govern panama invas reason
+629_0;incid of violent attack on abort clinic
+629_1;abort clinic act violenc
+629_2;abort clinic bomb
+629_3;abort clinic arson
+629_4;bomb shoot attack abort clinic doctor staff
+629_5;violent attack abort clinic
+629_6;bomb abort clinic
+629_7;arson abort clinic
+629_8;doctor staff violent attack abort clinic
+629_9;abort clinic attack violent anti protest
+630_0;gulf war syndrom symptom
+630_1;gulf war syndrom symptom
+630_2;symptom gulf war syndrom
+630_3;ill gulf war veteran
+630_4;symptom desert storm syndrom
+630_5;gulf war syndrom symptom
+630_6;gulf war syndrom symptom lawsuit
+630_7;gulf war syndrom symptom lawsuit desert storm syndrom
+630_8;gulf war syndrom ill symptom
+630_9;gulf war syndrom ptsd desert storm veteran ill
+631_0;nelson mandela elect south africa
+631_1;nelson mandela elect presid
+631_2;nelson mandela elect presid south africa
+631_3;nelson mandela elect presid republ south africa
+631_4;nelson mandela elect campaign republ south africa
+631_5;nelson mandela elect polici republ south africa
+631_6;nelson mandela rsa south africa presid elect
+631_7;nelson mandela elect presid south africa
+632_0;tin mine asia
+632_1;tin mine asia
+632_2;tin mine china malaysia indonesia vietnam burma thailand lao
+632_3;tin mine countri southeast asia
+632_4;tin mine china malaysia indonesia vietnam burma thailand lao
+632_5;major tin mine countri southeast asia
+632_6;major tin mine countri china
+632_7;major tin mine countri malaysia
+632_8;major tin mine countri indonesia
+632_9;major tin mine countri vietnam
+633_0;welsh devolut movement
+633_1;welsh devolut movement histori
+633_2;welsh devolut movement histor record
+633_3;welsh devolut movement
+633_4;welsh devolut movement histor fact
+633_5;welsh devolut movement caus
+633_6;welsh devolut movement histori
+633_7;welsh devolut histori
+633_8;histori welsh devolut movement wale background
+634_0;l tryptophan dietari supplement death
+634_1;l tryptophan dietari supplement death
+634_2;taint l tryptophan dietari supplement death
+634_3;number death taint l tryptophan dietari supplement
+634_4;l tryptophan dietari supplement death death toll
+634_5;l tryptophan ltryptophan taint fatal death dietari supplement death toll
+634_6;l tryptophan em disast 1989 gmo product death count toll
+634_7;l tryptophan l tryptophan death taint
+635_0;assist suicid us
+635_1;doctor assist suicid us
+635_2;us euthanasia
+635_3;debat argument doctor assist suicid unit state
+635_4;doctor assist suicid us unit state debat
+635_5;unit state doctor assist suicid euthanasia us unit state debat
+635_6;unit state doctor assist suicid euthanasia us unit state doctor opinion
+635_7;doctor assist suicid euthanasia unit state usa america
+636_0;juri servic exempt
+636_1;juri exempt reason
+636_2;juri duti exempt
+636_3;occup like exempt juri duti
+636_4;exempt serv juri reason
+636_5;occup exempt worker juri duti
+636_6;conflict interest exempt worker juri duti
+636_7;juri duti exempt list
+637_0;human growth hormon hgh pro con
+637_1;human growth hormon adult effect
+637_2;pro con human growth hormon hgh adult
+637_3;human growth hormon hgh debat adult
+637_4;human growth hormon hgh debat contenti adult
+637_5;human growth hormon hgh debat adult applic
+637_6;hgh human growth hormon adult use
+637_7;pro con advantag disadvantag human growth hormon hgh adult
+638_0;prison freed faulti forens evid fals testimoni poor polic work
+638_1;wrong convict prison freed
+638_2;prison wrongli convict due faulti forens evid fals testimoni
+638_3;freed pardon polit prison prosecut
+638_4;freed prison wrong convict
+638_5;incorrect forens evid freed prison discharg wrong convict
+638_6;bad polic work freed prison discharg wrong convict
+638_7;corrupt polic freed prison discharg wrong convict
+638_8;fals testimoni freed prison discharg wrong convict
+638_9;wrong convict faulti forens fals testimoni error
+639_0;onlin shop growth
+639_1;onlin shop growth factor
+639_2;onlin shop growth factor statist
+639_3;growth internet shop factor
+639_4;increas onlin shop statist growth factor reason
+639_5;increas onlin shop statist growth factor varieti valu
+639_6;increas onlin shop statist growth factor educ technolog literaci
+639_7;increas onlin shop statist growth factor mobil phone ownership increas
+639_8;growth onlin shop
+640_0;govern matern leav polici
+640_1;matern leav govern polici
+640_2;matern leav polici unit state
+640_3;matern leav polici europ
+640_4;matern leav polici govern
+640_5;matern leav polici govern pass legisl
+640_6;matern leav polici govern benefit provid unaccount
+640_7;matern leav polici govern
+641_0;exxon valdez oil spill marin life wildlif
+641_1;exxon valdez oil spill marin life wildlif
+641_2;exxon valdez oil spill impact marin life
+641_3;exxon valdez oil spill marin wildlif
+641_4;exxon valdez oil spill problem issu challeng
+641_5;exxon valdez oil spill anim rescu save dead die death
+641_6;exxon valdez oil spill impact environ
+641_7;exxon valdez disast impact environment damag wildlif marin
+642_0;tiananmen squar protest 1989
+642_1;tiananmen squar  protest arrest
+642_2;tiananmen squar demonstr arrest beij 1989
+642_3;tiananmen squar protest arrest beij 1989
+642_4;tiananmen squar protest happen
+642_5;tiananmen squar protest arrest aftermath outcom
+642_6;tiananmen squar protest arrest legal process charg imprison fine
+642_7;tiananmen squar arrest
+643_0;power dam salmon fisheri
+643_1;dam harm salmon fisheri us pacif northwest
+643_2;impact power dam pacif northwest salmon fisheri
+643_3;impact dam salmon popul unit state pacif northwest
+643_4;power dam pacif northwest salmon fisheri harm unit state
+643_5;power dam pacif neg impact salmon popul us unit state
+643_6;power dam pacif neg impact salmon popul us unit state environment issu
+643_7;pacif northwest north west power dam salmon harm
+644_0;exot anim import us uk
+644_1;exot speci import us uk britain
+644_2;bird exot anim import unit state
+644_3;bird exot anim import unit kingdom
+644_4;exot speci anim import britain us
+644_5;import rare bird britain uk unit state us
+644_6;import rare anim britain uk unit state us
+644_7;unit state america usa us unit kingdom uk exot anim import
+645_0;softwar piraci impact
+645_1;softwar piraci financi impact
+645_2;financi impact softwar piraci industri
+645_3;financi impact video music piraci industri
+645_4;financi impact softwar piraci
+645_5;softwar piraci cost busi annual
+645_6;net loss incur piraci pirat softwar compani statist
+645_7;softwar piraci financi impact
+645_8;softwar piraci cost impact econom intellectu properti
+646_0;food stamp benefit increas
+646_1;food stamp recipi increas
+646_2;rate food stamp benefit
+646_3;increas number food stamp recipi
+646_4;food stamp polici
+646_5;food stamp elig increas
+646_6;food stamp elig peopl
+646_7;food stamp elig immigr
+646_8;food stamp increas depend race
+646_9;food stamp increas depend gender
+647_0;windmil electr product cost
+647_1;wind power electr econom
+647_2;windmil gener electr econom product
+647_3;cost electr gener windmil
+647_4;wind turbin electr product
+647_5;windmil technolog gener electr cost benefit analysi
+647_6;wind farm econom product gener electr
+647_7;windmil electr gener econom viabl product
+648_0;famili leav law
+648_1;famili leav law
+648_2;famili medic leav act qualif
+648_3;famili leav law qualif
+648_4;famili leav law compens long
+648_5;famili leav law compens time durat reason health condit
+648_6;famili leav law compens time durat reason medic certif
+648_7;famili leav law exampl time compens
+649_0;comput viru infect
+649_1;comput virus
+649_2;comput viru infect strategi
+649_3;comput viru transmiss spread
+649_4;comput viru outdat old insecur softwar exploit mail worm
+649_5;comput viru trust execut attach email
+649_6;comput viru boot sector transmiss remov media
+649_7;comput viru code execut buffer overflow
+649_8;comput viru infect
+650_0;seriou tax evas us uk
+650_1;larg scale tax evas indict
+650_2;tax evas unit state unit kingdom two million dollar
+650_3;individu corpor charg tax evas two million dollar britain us
+650_4;corpor avoid tax us uk unit state unit kingdom britain fraud
+650_5;corpor avoid tax us uk unit state unit kingdom britain fraud money lost
+650_6;usa us unit state america unit kingdom uk tax evas corpor
+650_7;tax evas us uk england britain million dollar larg scale massiv fraud unit state
+651_0;chang in ethnic composit us popul
+651_1;us popul ethnic
+651_2;unit state popul shift ethnic group make
+651_3;us unit state popul demograph race ethnic
+651_4;us unit state popul race ethnic genet makeup breed interraci
+651_5;us unit state popul demograph race divers increas
+651_6;usa unit state ethnic shift america
+651_7;ethnic makeup us unit state popul latino black caucasian
+652_0;oic balkan 1990
+652_1;organ islam cooper oic balkan island
+652_2;oic balkan region
+652_3;oic involv balkan 1990 1994
+652_4;oic balkan nation group posit debat deliber involv
+652_5;organis islam confer oic balkan 1990 1994
+652_6;oic balkan 1990 1991 1992 1993 1994 1990 1994
+652_7;oic involv balkan
+653_0;eta activ basqu spain
+653_1;eta basqu terrorist organ
+653_2;eta basqu terrorist spain
+653_3;eta basqu terrorist organ spain
+653_4;eta basqu activ spain illeg
+653_5;eta basqu leftist movement separatist group
+653_6;eta basqu terrorist spain activ
+653_7;eta basqu terrorist separatist fighter spain civil
+654_0;same sex school advantag disadvantag
+654_1;sex school pro con
+654_2;sex school pro con
+654_3;sex school advantag disadvantag
+654_4;sex school advantag disadvantag
+654_5;benefit advantag debat girl school girl
+654_6;benefit advantag debat boy school boy
+654_7;social issu girl attend girl school
+654_8;social issu boy attend boy school
+654_9;sex school pro con advantag disadvantag
+655_0;attent deficit disord children diagnosi treatment
+655_1;attent deficit disord add diagnosi treatment
+655_2;attent deficit disord diagnosi young children
+655_3;adhd diagnosi treatment young children
+655_4;add attent deficit disord diagnosi young children
+655_5;add attent deficit disord symptom earli warn sign young children
+655_6;add attent deficit disord treatment young children
+655_7;add attent deficit disord adhd treatment diagnosi
+656_0;lead poison paint water pipe children
+656_1;child protect lead poison paint water pipe
+656_2;paint water pipe poison protect children
+656_3;paint water pipe poison lawsuit
+656_4;young children lead poison protect paint water pipe
+656_5;young children lead poison protect paint water pipe legal issu lawsuit law suit
+656_6;young children lead poison abat reduct project
+656_7;child lead poison pipe paint protect prevent
+657_0;prayer ban us school
+657_1;us school prayer ban
+657_2;prayer ban unit state school
+657_3;prayer religion us unit state public school ban
+657_4;prayer religion us unit state christian privat school allow
+657_5;prayer religion us unit state public school allow
+657_6;us unit state america prayer pray school ban
+657_7;prayer ban us unit state school court rule
+658_0;teenag pregnanc us
+658_1;us teenag pregnanc
+658_2;birth rate teenag mother
+658_3;caus result teenag pregnanc
+658_4;teenag pregnanc reduct
+658_5;teenag abort
+658_6;teenag pregnanc unit state
+658_7;teenag abort unit state
+658_8;teenag pregnanc unit state us
+658_9;birth rate teenag mother unit state us
+659_0;cruis ship health safeti mainten standard
+659_1;cruis ship health safeti mainten
+659_2;cruis ship safeti mainten standard guidelin
+659_3;cruis ship health safeti mainten
+659_4;recreat cruis ship health safeti practic
+659_5;recreat cruis ship health safeti resort manag practic
+659_6;cruis ship liner health safeti standard
+659_7;health safeti passeng cruis ship ill accid boat marin sea ocean
+660_0;whale watch california
+660_1;whale watch california coast
+660_2;whale watch site california
+660_3;whale watch guid servic california
+660_4;whale watch coast california
+660_5;whale watch coast california guid servic watch whale
+660_6;watch coast california guid servic locat book time
+660_7;california whale watch
+661_0;melanoma caus treatment
+661_1;melanoma treatment caus diagnosi
+661_2;caus treatment melanoma
+661_3;research caus diagnosi melanoma
+661_4;melanoma skin cancer treatment
+661_5;melanoma skin cancer caus reason
+661_6;melanoma skin cancer sun protect
+661_7;melanoma caus treatment prognosi
+662_0;protect against telemarket
+662_1;telemarket legisl regul strategi protect consum
+662_2;legisl regul telemarket scam
+662_3;telemarket consum protect unwant interrupt
+662_4;telemarket spam filter consum strategi
+662_5;telemarket legisl protect consum regul
+662_6;telemarket consum protect scam
+662_7;telemarket scam protect legisl regul
+662_8;telemarket legisl call scam
+663_0;agent orang health effect
+663_1;agent orang health vietnam veteran
+663_2;vietnam veteran unit state agent orang
+663_3;health effect agent orang vietnam veteran unit state us studi
+663_4;health effect agent orang vietnam veteran unit state us studi medic journal research medicin
+663_5;health effect agent orang vietnam veteran unit state us studi univers public
+663_6;agent orang us unit state veteran impact health issu
+663_7;health effect danger ill long term agent orang vietnam veteran va affair
+664_0;nation museum of the american indian
+664_1;nation museum american indian
+664_2;nation museum american indian locat
+664_3;collect nation museum american indian
+664_4;nation museum american indian locat
+664_5;nation museum american indian collect art piec work cultur
+664_6;nation museum american indian similar museum exhibit
+664_7;nation museum american indian collect locat
+665_0;poverti extent sub saharan africa
+665_1;sub saharan africa poverti
+665_2;poverti sub saharan africa
+665_3;sub saharan africa poverti rampant widespread
+665_4;sub saharan africa poverti extens
+665_5;sub saharan africa poverti decreas improv
+665_6;sub saharan africa poverti increas get wors
+665_7;sub saharan poverti condit africa
+665_8;poverti sub saharan africa fact figur dollar per day subsist
+666_0;margaret thatcher resign us uk relat
+666_1;margaret thatcher resign impact us uk relat
+666_2;margaret thatcher resign impact us british relat
+666_3;prime minist margaret thatcher resign unit state relat
+666_4;prime minist thatcher resign unit state relat
+666_5;prime minist margaret thatcher resign us uk relat
+666_6;prime minist margaret thatcher resign us uk relat histor event
+666_7;prime minist margaret thatcher resign us uk relat neg
+666_8;margaret thatcher unit state america uk unit kingdom relationship relat impact
+667_0;increas unmarri partner household us
+667_1;unmarri household us
+667_2;unmarri partner household unit state
+667_3;sex household unit state
+667_4;increas trend unmarri partner household
+667_5;increas trend sex partner household
+667_6;increas trend sex partner household law legal issu
+667_7;increas trend sex partner household child adopt legal issu custodi ivf vitro fertil
+667_8;increas trend unmarri lifestyl marriag outdat religi concept
+667_9;unmarri partner household america trend usa
+668_0;relationship poverti diseas
+668_1;poverti diseas connect
+668_2;relat poverti diseas
+668_3;poverti health care issu
+668_4;poverti diseas relationship
+668_5;poverti healthcar relationship
+668_6;poverti diseas healthcar relationship
+668_7;poverti diseas correl
+669_0;islam revolut relat us
+669_1;islam revolut reason
+669_2;relat islam nation unit state
+669_3;islam revolut unit state
+669_4;islam revolut caus us unit state relat
+669_5;deterior islam nation relationship unit state us
+669_6;deterior islam nation relationship unit state us consequ wrongdo
+669_7;deterior islam nation relationship unit state us extrem imperi
+669_8;deterior islam nation relationship unit state us oil explor
+669_9;islam revolut caus unit state america usa us
+670_0;us elect apathi low turnout
+670_1;us elect apathi
+670_2;unit state elect turnout
+670_3;apathi us unit state us elect polit
+670_4;poor voter turnout unit state us elect polit
+670_5;apathi unit state us poll booth inaccess hard get
+670_6;apathi unit state us democraci polit parti
+670_7;apathi unit state us democraci polit parti represent
+670_8;apathi unit state us democraci jade politician hypocrit liar corrupt thiev
+670_9;apathi unit state us democraci jade corrupt lobbyist lobbi
+671_0;salvat armi benefit
+671_1;salvat armi help
+671_2;salvat armi work achiev
+671_3;benefit salvat armi provid poverti homeless
+671_4;benefit salvat armi provid soup kitchen food
+671_5;benefit salvat armi provid shelter domest violenc safeti secur
+671_6;salvat armi benefit provid
+671_7;salvat armi homeless needi poverti assist aid help
+672_0;nation rifl associ nra membership profil
+672_1;membership profil nation rifl associ
+672_2;nation rifl associ member profil
+672_3;nra member profil
+672_4;nation rifl associ age race person
+672_5;nation rifl associ person profil
+672_6;nation rifl associ polit represent view person
+672_7;nra nation rifl associ member detail
+672_8;membership profil nation rifl associ nra demograph
+673_0;withdraw soviet troop afghanistan
+673_1;withdraw soviet union afghanistan
+673_2;withdraw ussr afghanistan
+673_3;soviet russia withdraw troop afghanistan
+673_4;withdraw soviet union troop soldier afghanistan
+673_5;factor lead withdraw soviet union soldier troop afghanistan
+673_6;withdraw soviet union troop soldier afghanistan reconcili
+673_7;soviet withdraw afghanistan reason
+674_0;greenpeac prosecut arrest
+674_1;greenpeac arrest
+674_2;greenpeac member arrest
+674_3;greenpeac member prosecut
+674_4;greenpeac prosecut member affili
+674_5;greenpeac arrest member prosecut individu organ
+674_6;greenpeac member crimin record
+674_7;greenpeac prosecut member
+675_0;train olymp swim meet
+675_1;olymp swim train
+675_2;olymp swim meet train
+675_3;olymp swim meet train requir
+675_4;olymp swim train
+675_5;train condit site requir olymp swim prepar
+675_6;train condit temperatur exercis olymp swim prepar
+675_7;olymp swim train condit requir
+676_0;poppi cultiv export worldwid
+676_1;poppi cultiv export
+676_2;poppi cultiv export report
+676_3;cultiv poppi export morphin heroin opiat illeg narcot
+676_4;cultiv poppi export morphin heroin opiat illeg narcot worldwid distribut network crimin
+676_5;cultiv poppi export morphin heroin opiat illeg narcot histori develop earli day
+676_6;poppi cultiv export
+676_7;poppi cultiv export industri illeg
+677_0;lean tower of pisa stabil
+677_1;lean tower pisa restor
+677_2;effort stabil learn tower pisa
+677_3;lean tower pisa current statu
+677_4;reinforc stabil lean tower pisa
+677_5;stabil lean tower pisa
+677_6;fix lean lean tower pisa
+677_7;current state lean tower pisa
+677_8;reinforc lean tower pisa
+677_9;lean tower pisa structur sound
+678_0;joint share custodi impact on children
+678_1;share custodi divorc children pro con
+678_2;joint custodi impact children
+678_3;share custodi impact children
+678_4;share custodi impact child
+678_5;econom effect share custodi child
+678_6;social effect share custodi child
+678_7;emot effect share custodi child
+678_8;share custodi child impact
+679_0;us open seal adopt record
+679_1;us debat seal adopt court record
+679_2;open seal adopt record court order
+679_3;seal adopt record adopte debat unit state us court sanction
+679_4;interest birth parent adopte debat unit state us court sanction
+679_5;access adopt record adopte debat unit state us court sanction
+679_6;open adopt record adopte debat unit state us court sanction
+679_7;usa unit state america debat seal adopt record
+680_0;spanish in us school improv live of mexican immigr
+680_1;spanish us educ improv mexican immigr
+680_2;mexican immigr spanish speak school unit state
+680_3;spanish unit state us school mexican immigr
+680_4;spanish languag unit state us mexican immigr improv qualiti life student
+680_5;spanish languag unit state us mexican immigr improv qualiti life famili
+680_6;mexican spanish american school
+680_7;spanish speaker nativ mexican immigr school mother tongu
+681_0;wind power instal locat
+681_1;wind power locat
+681_2;locat wind power station
+681_3;wind power instal locat
+681_4;wind turbin instal locat
+681_5;wind farm instal worldwid
+681_6;wind farm locat
+681_7;wind farm locat site ridg ocean
+682_0;teach english to immigr
+682_1;english educ adult immigr
+682_2;immigr english learn program adult
+682_3;english teach adult immigr pedagogi
+682_4;english teach adult immigr program inform session
+682_5;english teach adult recent immigr immigr
+682_6;adult immigr english languag teach program
+682_7;teach english recent migrant
+683_0;break up czechoslovakia social polit impact
+683_1;break czechoslovakia czech republ slovakia
+683_2;czechoslovakia break
+683_3;czech republ slovakia break
+683_4;czechoslovakia czech republ slovakia break polit impact
+683_5;czechoslovakia czech republ slovakia break social emot impact
+683_6;czechoslovakia czech republ slovakia split impact
+683_7;czech republ slovakia czechoslovakia impact social polit
+684_0;medic benefit for part time worker
+684_1;part time work provid medic benefit
+684_2;health care benefit part time worker
+684_3;busi govern medic benefit part time worker
+684_4;medic benefit part time worker oversea parliament govern
+684_5;medic benefit part time worker oversea busi compani organ
+684_6;part time worker medic  benefit busi
+684_7;medic health benefit part time fraction casual worker employe
+685_0;oscar winner vote process
+685_1;oscar winner select
+685_2;academi award nomin select criteria
+685_3;oscar award nomin select criteria
+685_4;oscar winner award select nomin process
+685_5;vote oscar award democrat
+685_6;number amount elig voter oscar award
+685_7;oscar winner select process
+685_8;oscar academi award select vote choic winner
+686_0;neg impact argentina peg peso to dollar
+686_1;argentin peso us dollar problem
+686_2;problem issu peg argentina peso us dollar
+686_3;argentina peg peso us unit state us dollar neg effect
+686_4;argentina peg peso us unit state us dollar reason econom slump downturn recess
+686_5;argentina peg peso us unit state us dollar neg effect fix exchang rate
+686_6;argentina peso usd us dollar peg problem
+686_7;pro con advantag disadvantag argentinian currenc peso fix peg us unit state dollar
+687_0;northern ireland economi industri busi
+687_1;northern ireland busi industri
+687_2;major industri northern ireland
+687_3;economi northern ireland industri busi
+687_4;macroeconom activ northern ireland industri busi
+687_5;northern ireland major import export gdp gross domest product economi
+687_6;northern ireland economi industri
+687_7;industri economi northern ireland major employ
+688_0;media bia outsid us
+688_1;intern media bia
+688_2;intern media bia
+688_3;media bia europ
+688_4;media bia australia
+688_5;media bia asian countri
+688_6;media bia canada
+688_7;media bia britain
+688_8;bia exist media worldwid outsid unit state us
+688_9;alleg bia exist media worldwid outsid unit state us
+689_0;usaid famili plan support
+689_1;usaid famili plan
+689_2;countri receiv aid famili plan unit state
+689_3;unit state deni aid famili plan
+689_4;limit famili plan support unit state
+689_5;unit state us global financi aid recipi famili plan countri
+689_6;unit state us global financi aid recipi famili plan countri refus limit support
+689_7;unit state us global financi aid recipi pregnanc countri refus limit support
+689_8;unit state us global financi aid recipi pregnanc countri
+689_9;us usa unit state famili plan support
+690_0;colleg graduat increas incom
+690_1;univers graduat increas incom
+690_2;hire potenti colleg graduat
+690_3;us colleg educ improv job opportun
+690_4;graduat hire potenti north america
+690_5;colleg educ improv job seek
+690_6;advantag colleg educ unit state
+690_7;advantag colleg educ job opportun
+690_8;increas hire potenti univers graduat
+690_9;increas hire potenti master increas job opportun univers graduat
+691_0;clear cut object
+691_1;clear cut forest protest
+691_2;object clear cut forest
+691_3;argument clear cut forest
+691_4;clear cut clear cut old forest object
+691_5;clear cut clear cut old forest debat resist
+691_6;clear cut clearcut controversi environ activ
+691_7;clear cut forestri log object
+691_8;forest clear cut disadvantag protest protest resist timber tree log
+692_0;prostat cancer detect treatment
+692_1;prostat cancer detect treatment
+692_2;prostat cancer gener treatment
+692_3;prostat cancer earli detect
+692_4;prostat cancer detect
+692_5;prostat cancer treatment avail
+692_6;prostat cancer treatment differ stage develop
+692_7;prostat cancer detect treatment
+693_0;electron media newspap industri
+693_1;effect electron media newspap
+693_2;impact electron media newspap industri
+693_3;electron media newspap industri print dead
+693_4;internet destroy print industri newspap media dead
+693_5;read news onlin instead print destroy newspap industri
+693_6;newspap industri declin electron technolog media
+693_7;electron media newspap print advertis industri readership declin circul
+694_0;how to make a compost pile
+694_1;compost
+694_2;make compost pile
+694_3;procedur make compost pile
+694_4;compost pile construct
+694_5;dimens compost pile
+694_6;size compost pile
+694_7;depth compost pile
+694_8;add compost pile fruit veget egg teabag
+694_9;compost pile
+695_0;white collar crime sentenc durat
+695_1;white collar crime averag sentenc
+695_2;length sentenc white collar crime
+695_3;white collar crime sentenc legal
+695_4;judg bia white collar crime sentenc legal
+695_5;white collar crime fraud sentenc
+695_6;white collar crime sentenc
+695_7;white collar crime sentenc
+696_0;cosmet plastic surgeri hazard risk safeti
+696_1;cosmet plastic surgeri safeti
+696_2;cosmet plastic surgeri safeti concern
+696_3;risk plastic surgeri
+696_4;safeti cosmet plastic surgeri
+696_5;heart condit cosmet plastic surgeri safeti issu
+696_6;health safeti enhanc bodi plastic surgeri
+696_7;plastic surgeri cosmet safeti
+696_8;hazard cosmet plastic surgeri
+696_9;safeti cosmet plastic surgeri
+697_0;work condit us air traffic control
+697_1;us air traffic control work condit
+697_2;work condit salari level unit state air traffic control
+697_3;air traffic control pay scale unit state
+697_4;work condit unit state us air traffic control
+697_5;pay incom unit state us air traffic control
+697_6;break shift hour work unit state us air traffic control
+697_7;usa us unit state air traffic control work condit salari
+697_8;pay condit air traffic control us unit state
+697_9;american control air traffic work condit
+698_0;literaci rate african countri
+698_1;african literaci rate
+698_2;literaci rate africa
+698_3;literaci rate africa
+698_4;literaci rate sudan
+698_5;literaci rate south africa
+698_6;african countri literaci rate list
+698_7;literaci rate africa
+699_0;term limit pro con
+699_1;term limit pro con
+699_2;pro con term limit
+699_3;term limit legisl studi
+699_4;debat term limit legisl pro con posit neg govern
+699_5;term limit legisl opinion critic govern
+699_6;term limit great improv posit unit state us govern
+699_7;term limit pro con
+699_8;term limit valu advantag
+699_9;term limit valu disadvantag
+700_0;increas gasolin tax us
+700_1;gasolin tax pro con
+700_2;gasolin tax unit state
+700_3;gasolin tax increas us unit state posit neg
+700_4;gasolin tax hike increas critic debat unit state us
+700_5;gasolin tax hike posit improv great wonder unit state us
+700_6;us usa unit state gasolin tax increas argument reason
+700_7;pro con advantag disadvantag cost benefit gasolin tax increas us unit state
+700_8;gasolin tax survey
